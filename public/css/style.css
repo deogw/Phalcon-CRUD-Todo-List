@@ -1,0 +1,28 @@
+body {
+  background: #273451;
+  font-family: 'Open Sans',sans-serif;;
+}
+
+.container {
+  max-width: 400px
+}
+
+input[type=text],
+input[type=text]:focus {
+  color: #fff;
+  border: none;
+  background: rgba(32, 44, 70, 1);
+  max-width: 400px;
+}
+
+.todos li {
+  background: #423a6f;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.filtered {
+  display: none !important;
+}
