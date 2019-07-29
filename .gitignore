@@ -14,7 +14,6 @@
 !/storage/logs/.gitignore
 /storage/pids/*
 !/storage/pids/.gitignore
-/public/.htaccess
 /public/temp/
 /public/builder/upload/*
 !/public/temp/index.html
